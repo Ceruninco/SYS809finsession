@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@2aea3f70-0b38-45a4-ba34-2b80fe04caff" />
+        <remote-mappings server-id="python@sftp://ar50980@spartacus.logti.etsmtl.ca:22/home/ar50980/anaconda3/envs/sys809/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/ar50980/fin_session" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
